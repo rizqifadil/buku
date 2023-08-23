@@ -1,2 +1,2 @@
 ## Preview Aplikasi
-![Preview Aplikasi](/assets/buku.png)
+![Preview Aplikasi](/hasil/buku.png)
