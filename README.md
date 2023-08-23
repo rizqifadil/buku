@@ -1,2 +1,2 @@
 ## Preview Aplikasi
-![Preview Aplikasi](/hasil/buku.png)
+![Preview Aplikasi](hasil/buku.png)
